@@ -1,8 +1,10 @@
 # HashubDocApp Python SDK
 
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
+[![PyPI version](https://img.shields.io/pypi/v/hashub-docapp.svg)](https://pypi.org/project/hashub-docapp/)
+[![Python](https://img.shields.io/pypi/pyversions/hashub-docapp.svg)](https://pypi.org/project/hashub-docapp/)
+[![Downloads](https://img.shields.io/pypi/dm/hashub-docapp.svg)](https://pypi.org/project/hashub-docapp/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-production-brightgreen.svg)](https://github.com)
+[![Status](https://img.shields.io/badge/status-production-brightgreen.svg)](https://github.com/hasanbahadir/hashub-doc-sdk)
 
 Professional Python SDK for the HashubDocApp API - Advanced OCR, document conversion, and text extraction service.
 
@@ -21,8 +23,16 @@ Professional Python SDK for the HashubDocApp API - Advanced OCR, document conver
 
 ### Installation
 
+Install the latest stable version from [PyPI](https://pypi.org/project/hashub-docapp/):
+
 ```bash
 pip install hashub-docapp
+```
+
+Or install the development version from GitHub:
+
+```bash
+pip install git+https://github.com/hasanbahadir/hashub-doc-sdk.git
 ```
 
 ### Basic Usage
@@ -554,8 +564,10 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🤝 Support
 
+- **PyPI Package**: [hashub-docapp on PyPI](https://pypi.org/project/hashub-docapp/)
 - **Documentation**: [HashubDocApp Docs](https://doc.hashub.dev)
 - **API Reference**: [API Documentation](https://doc.hashub.dev/api)
+- **GitHub Repository**: [Source Code](https://github.com/hasanbahadir/hashub-doc-sdk)
 - **Support**: [Contact Support](mailto:support@hashub.dev)
 
 ---
